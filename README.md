@@ -11,4 +11,4 @@ Final Placements:
 Overall (Global): #116
 United States: #33
 
-![Uploading Screenshot 2025-05-02 at 9.25.07 AM.png…]()
+<img width="1437" alt="Screenshot 2025-05-02 at 9 27 01 AM" src="https://github.com/user-attachments/assets/33f764f3-d113-4649-9d48-fdf273f6c3ff" />
